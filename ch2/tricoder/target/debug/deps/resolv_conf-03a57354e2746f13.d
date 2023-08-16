@@ -1,0 +1,8 @@
+/Users/admin/projects/black_hat_rust/ch2/tricoder/target/debug/deps/resolv_conf-03a57354e2746f13.rmeta: /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs
+
+/Users/admin/projects/black_hat_rust/ch2/tricoder/target/debug/deps/resolv_conf-03a57354e2746f13.d: /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs
+
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/lib.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/grammar.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/ip.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/resolv-conf-0.7.0/src/config.rs:

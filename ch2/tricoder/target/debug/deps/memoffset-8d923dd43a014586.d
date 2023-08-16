@@ -1,0 +1,8 @@
+/Users/admin/projects/black_hat_rust/ch2/tricoder/target/debug/deps/memoffset-8d923dd43a014586.rmeta: /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/admin/projects/black_hat_rust/ch2/tricoder/target/debug/deps/memoffset-8d923dd43a014586.d: /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs
+
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/lib.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/raw_field.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/offset_of.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.0/src/span_of.rs:

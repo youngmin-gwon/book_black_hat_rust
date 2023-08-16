@@ -1,0 +1,10 @@
+/Users/admin/projects/black_hat_rust/ch2/tricoder/target/debug/deps/cc-bad7c1e1fbd599e4.rmeta: /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/lib.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/os_pipe.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/os_pipe/unix.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/windows_registry.rs
+
+/Users/admin/projects/black_hat_rust/ch2/tricoder/target/debug/deps/libcc-bad7c1e1fbd599e4.rlib: /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/lib.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/os_pipe.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/os_pipe/unix.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/windows_registry.rs
+
+/Users/admin/projects/black_hat_rust/ch2/tricoder/target/debug/deps/cc-bad7c1e1fbd599e4.d: /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/lib.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/os_pipe.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/os_pipe/unix.rs /Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/windows_registry.rs
+
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/lib.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/os_pipe.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/os_pipe/unix.rs:
+/Users/admin/.asdf/installs/rust/1.71.1/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.82/src/windows_registry.rs:
